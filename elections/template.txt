@@ -1,0 +1,18 @@
+To
+Voter Name : ${FM_NAME_EN} ${LASTNAME_EN}
+Dr Number : ${C_HOUSE_NO}
+Address : ${ADRESS_E} 
+
+SUB : - XXXX 
+
+Body Text XXXXX
+
+<table>
+Sr.No 	Voter_Name 	Sex 	Age 	EPIC 	PS_NAME 
+${SLNOINPART}	${V_FULL_NAME}	 ${GENDER}	${AGE}	${EPIC_NO}	${PS_NAME_EN}
+</table>
+			
+Body Text XXXXX
+
+YOURS 
+XXXX 
